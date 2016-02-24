@@ -38,7 +38,7 @@ STEPS:
 
       - clientId           - Use the clientId you got from step 4.
 	
-	  - clientSecret       - Use the clientSecret you got from step 4.
+      - clientSecret       - Use the clientSecret you got from step 4.
 	
       - accessToken        - Use the accessToken you got from step 4.
 
@@ -53,7 +53,7 @@ STEPS:
 
       - campaignId         - Create a new smart campaign under the created program.
 
-      - rCampaignId        - Create a new smart campaign under the created program. The Smart Campaign must have a “Campaign is Requested” trigger with a Web Service API source.
+      - rCampaignId        - Create a new smart campaign under the created program. The Smart Campaign must have a "Campaign is Requested" trigger with a Web Service API source.
 
       - cookie             - A valid marketo cookie value
 
