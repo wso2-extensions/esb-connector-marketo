@@ -1,0 +1,20 @@
+{
+    "name": "Marketo",
+    "owner": "WSO2",
+    "category": "Sales and Marketing",
+    "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Marketo+Connector",
+    "description": "The Marketo connector allows you to access the Marketo REST API through WSO2 ESB. Marketo is a marketing automation platform that provides marketing automation, customer engagement marketing, real-time personalization to offer personalized messaging across marketing channels, and marketing management functionality, including budgeting tools and marketing calendars",
+    "status": "Unsupported",
+    "labels": [
+        "connector"
+    ],
+    "releases": [
+        {
+            "tagName": "v1.0.0",
+            "products": [
+                "\"ESB 4.9.0\""
+            ],
+            "isHidden": false
+        }
+    ]
+}
